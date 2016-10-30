@@ -1,0 +1,15 @@
+{
+  "name": "purescript-type-data",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-console": "^2.0.0",
+    "purescript-maybe": "^2.0.1",
+    "purescript-proxy": "^1.0.0"
+  },
+  "devDependencies": {}
+}
