@@ -9,7 +9,7 @@
   "dependencies": {
     "purescript-console": "^3.0.0",
     "purescript-maybe": "^3.0.0",
-    "purescript-typelevel-prelude": "^2.1.0"
+    "purescript-typelevel-prelude": "^2.4.0"
   },
   "devDependencies": {}
 }
